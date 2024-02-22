@@ -16,3 +16,12 @@ p{
     background: black;
     color: aqua;
 }
+#final{
+    background: orange;
+    width: 1000px;
+    height: 100px;
+}
+
+#final p {
+    background-color: orange;
+}
