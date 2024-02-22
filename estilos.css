@@ -16,8 +16,20 @@ p{
     background: black;
     color: aqua;
 }
+<<<<<<< HEAD
 
 #imgHeader{
     width: 100px;
     height: 100px;
 }
+=======
+#final{
+    background: orange;
+    width: 1000px;
+    height: 100px;
+}
+
+#final p {
+    background-color: orange;
+}
+>>>>>>> footer
